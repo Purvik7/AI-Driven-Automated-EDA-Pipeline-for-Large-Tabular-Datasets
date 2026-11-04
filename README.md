@@ -53,6 +53,7 @@ If your main entry file has a different name (e.g. Home.py or main.py), replace 
 Streamlit will print a local URL (usually http://localhost:8501).
 Open it in your browser, upload a CSV file on the main page, and start exploring.
 
+
 📂 Project Structure (example)
 .
 ├── pages/
@@ -64,6 +65,7 @@ Open it in your browser, upload a CSV file on the main page, and start exploring
 ├── app.py
 ├── requirements.txt
 └── README.md
+
 💡 Usage Tips
 Start from the main page to upload your dataset (CSV).
 Use Automated Profiling to get a high-level overview and detailed HTML reports.
